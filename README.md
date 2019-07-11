@@ -2,6 +2,8 @@
 
 A Rust library to emulate the diamond operator in Perl / fileinput in Python.
 
+This is very much under development and started when I was looking at https://gist.github.com/ayosec/2ee0993247e003b42c5c
+
 ## Prior Art
 
 - fileinput, pythyon: https://github.com/python/cpython/blob/3.7/Lib/fileinput.py
