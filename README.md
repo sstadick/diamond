@@ -12,3 +12,8 @@ This is very much under development and started when I was looking at https://gi
   stdin
 - grabinput, rust: https://crates.io/crates/grabinput not performant,
   not safe
+
+## Motivation
+
+This would be a super useful operator to have for day to day usage and
+small scripts as they come up.
